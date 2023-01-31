@@ -8,14 +8,6 @@ import AllUserList from "./components/AllUserList";
 //     </div>
 
 
-);
-};
-export default App;
-
-
-
-
-
 
 
 
@@ -37,4 +29,4 @@ export default App;
 // };
 
 
-
+export default App;
